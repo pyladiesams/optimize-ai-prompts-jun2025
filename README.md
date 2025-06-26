@@ -41,6 +41,14 @@ source ./.venv/bin/activate
 pip install -r requirements.txt
 ```
 3. Navigate to `workshop` and run `ScaleDown_compression_challenge.ipynb`.
+
+### ScaleDown API Key
+
+ScaleDown API key can be requested [here](https://docs.scaledown.ai/docs/getting-started/api-keys).
+
+The key in Google Colab will only be available during the workshop. If you want to follow the workshop after, please request your API key via the link above.
+
+If you are using Jupyter notebook locally, please replace `your api key` with your actual ScaleDown API key.
    
 ## Credits
 This workshop was set up by @pyladiesams and @varchanaiyer
